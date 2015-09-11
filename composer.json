@@ -1,0 +1,14 @@
+{
+    "name": "dsv-su/strict-mode-php",
+    "description": "Enable strict error handling in PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Per Olofsson",
+            "email": "pelle@dsv.su.se"
+        }
+    ],
+    "autoload": {
+        "files": ["strict-mode.php"]
+    }
+}
