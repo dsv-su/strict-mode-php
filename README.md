@@ -1,7 +1,7 @@
 Strict mode PHP
 ===============
 
-This is a tiny library that enables strict error checking in PHP;
+This is a tiny library that enables strict error handling in PHP;
 i.e., it enables all errors (`E_ALL`) and throws an `ErrorException`
 for every error. It uses Composer's autoload facility to always load.
 
